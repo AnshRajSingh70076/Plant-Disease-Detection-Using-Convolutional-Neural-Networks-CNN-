@@ -1,4 +1,4 @@
-Plant Disease Detection Using Convolutional Neural Networks (CNN)
+#Plant Disease Detection Using Convolutional Neural Networks (CNN)
 Overview
 
 This project presents an Artificial Intelligence-based system for the automatic detection of plant diseases from leaf images using deep learning.
