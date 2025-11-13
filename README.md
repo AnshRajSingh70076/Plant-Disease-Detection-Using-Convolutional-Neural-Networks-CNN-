@@ -1,10 +1,10 @@
-#Plant Disease Detection Using Convolutional Neural Networks (CNN)
+## Plant Disease Detection Using Convolutional Neural Networks (CNN)
 Overview
 
 This project presents an Artificial Intelligence-based system for the automatic detection of plant diseases from leaf images using deep learning.
 The main goal is to assist farmers and researchers in early disease identification, preventing large-scale crop losses and improving agricultural productivity.
 
-Dataset
+# Dataset
 
 The model is trained on the PlantVillage dataset from Kaggle, which contains 38 classes of healthy and diseased plant leaves.
 Images are preprocessed, normalized, and augmented to improve model performance and generalization.
@@ -25,14 +25,14 @@ Optimizer: Adam
 
 After training, the model is saved as model.h5 for later inference.
 
-How to Run the Project
-Step 1: Install Dependencies
+# How to Run the Project #
+# Step 1: Install Dependencies
 
 Make sure you have Python 3.8 or higher installed. Then run:
 
 pip install tensorflow streamlit pillow numpy
 
-Step 2: Train the Model (Optional)
+# Step 2: Train the Model (Optional)
 
 If you want to retrain the model:
 
@@ -40,7 +40,7 @@ Open and run the notebook Plant_Disease_Prediction_Using_CNN.ipynb in Jupyter No
 
 The trained model will be saved as model.h5 in your working directory.
 
-Step 3: Run the Streamlit Application
+# Step 3: Run the Streamlit Application
 
 Open the add2.py file.
 
