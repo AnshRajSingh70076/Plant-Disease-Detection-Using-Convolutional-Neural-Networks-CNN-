@@ -5,7 +5,7 @@ This project presents an Artificial Intelligence-based system for the automatic 
 The main goal is to assist farmers and researchers in early disease identification, preventing large-scale crop losses and improving agricultural productivity.
 
 # Dataset
-
+Dataset URL: https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
 The model is trained on the PlantVillage dataset from Kaggle, which contains 38 classes of healthy and diseased plant leaves.
 Images are preprocessed, normalized, and augmented to improve model performance and generalization.
 
